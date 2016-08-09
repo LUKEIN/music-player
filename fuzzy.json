@@ -1,0 +1,23 @@
+{
+  "song": [
+    {"songName": "abc"},
+    {"songName": "aaa"},
+    {"songName": "accc"},
+    {"songName": "abert"},
+    {"songName": "acaca"}
+  ],
+  "singer":[
+    {"singerName": "a"},
+    {"singerName": "aaa"},
+    {"singerName": "accc"},
+    {"singerName": "abert"},
+    {"singerName": "acaca"}
+  ],
+  "album":[
+    {"alnumName": "ac"},
+    {"alnumName": "aaa"},
+    {"alnumName": "accc"},
+    {"alnumName": "abert"},
+    {"alnumName": "acaca"}
+  ]
+}

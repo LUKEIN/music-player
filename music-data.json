@@ -1,0 +1,290 @@
+{
+    "chinese": [
+        {
+        "id": 0,
+        "title": "传奇",
+        "artist": "王菲",
+        "album": "传奇",
+        "src": "music/传奇.mp3",
+        "img": "img/fei.jpg"
+        },{
+        "id": 0,
+        "title": "愚人的国度",
+        "artist": "孙燕姿",
+        "album": "是时候",
+        "src": "music/愚人的国度.mp3",
+        "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        }],
+    "western": [
+        {
+            "id": 0,
+            "title": "legend",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        }],
+    "jk": [
+        {
+            "id": 0,
+            "title": "々",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        }],
+    "rank": [
+        {
+            "id": 0,
+            "title": "01传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        },{
+            "id": 0,
+            "title": "传奇",
+            "artist": "王菲",
+            "album": "传奇",
+            "src": "music/传奇.mp3",
+            "img": "img/fei.jpg"
+        },{
+            "id": 0,
+            "title": "愚人的国度",
+            "artist": "孙燕姿",
+            "album": "是时候",
+            "src": "music/愚人的国度.mp3",
+            "img": "img/syz.jpg"
+        }]
+}
