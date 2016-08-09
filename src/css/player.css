@@ -406,7 +406,6 @@ a {
     width: 25px;
     cursor: pointer;
     overflow: hidden;
-    background-size: 224px 244px;
     background-image: url("../../img/sprite.png");
 }
 .t-control .add-plist {

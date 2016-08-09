@@ -44,7 +44,6 @@ KISSY.add(function (S, Node, Anim, XTemplate, IO, dd, ListTpl, TypeTpl) {
             audioSrc = '';
             animImgSrc = this.defaltImg;
         } else {
-            console.log(this.mList);
             $('.p-info:nth-child(1) a').text(this.mList[this.currentPlay].title);
             $('.p-info:nth-child(2) a').text(this.mList[this.currentPlay].artist);
             $('.p-info:nth-child(3) a').text(this.mList[this.currentPlay].album);
@@ -322,7 +321,7 @@ KISSY.add(function (S, Node, Anim, XTemplate, IO, dd, ListTpl, TypeTpl) {
         listEl.delegate('click', '.m-list .list-item', function (ev) {
             self.playOther($(ev.currentTarget).index());
             $('.toggle').css('background-position', '-292px -90px');
-            ev.halt();//啥意思
+            ev.halt();
         });
 
         listEl.delegate('click', '.m-operate .m-delete', function (ev) {
@@ -357,7 +356,7 @@ KISSY.add(function (S, Node, Anim, XTemplate, IO, dd, ListTpl, TypeTpl) {
         if (this.mList.length === 0) {
             this.animImg.css('background-image', 'url(img/default.jpg)');
             handler.css('left', handPos - 1 + '%');
-            //this.audio.remove();
+            this.audio.remove();
             this.audio = $('<audio></audio>')[0];
             this.el.append(this.audio);
             return;
@@ -434,7 +433,7 @@ KISSY.add(function (S, Node, Anim, XTemplate, IO, dd, ListTpl, TypeTpl) {
             ev.halt();
         });
         container.delegate('click', '.t-list .download', function (ev) {
-            self.logDownload($(ev.currentTarget).parent().parent().index(), listType);
+            //self.logDownload($(ev.currentTarget).parent().parent().index(), listType);
         });
         /*container.delegate('click', '.t-singer', function (ev) {
          $('.search-result').css('display', 'none');
